@@ -1,7 +1,4 @@
 /*
-Ben Hall
-Section 05
-September 3
 Assignment #1, Fortune Teller
 I did everything in the assignment, including the extra credit, as well as inclduing some extra stuff. 
 I moved the variables outside of the main function, and then I created a void for some extra spice. 
