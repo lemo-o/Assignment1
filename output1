@@ -1,0 +1,60 @@
+Script started on 2021-09-02 22:19:20-07:00 [TERM="xterm" TTY="/dev/pty0" COLUMNS="103" LINES="65"]
+]0;/cygdrive/c/Users/bhall/Documents/Programming/Fortune TEller
+[32mbhall@DESKTOP-GORVVML [33m/cygdrive/c/Users/bhall/Documents/Programming/Fortune TEller[0m
+$ lsnano testscript[C[Cls[K[Klsnano testscript[C[C[C[C[C[C[K[C[C[2Plsnano testscript[C[C[2@script[C[C[C[C[C[C[C[C[C[C[C[C[C[4P./testing.exe[C[Cscript testscript[C[C[4P./testing.exe[C[Cscript testscript[C[C[2Pnano[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Knano testscript[C[Cls[K[K./[K[K./main.exe
+[6n[6n[m[?25hEnter your favorite number (no decimals): 5
+Enter a number you don't like (no decimals): 20
+Enter the name of your favorite movie: Avengers
+Is it gif or gif? Gif
+I'm glad we could see eye to eye...
+Your secret, lucky number is: 0    
+Think bigger![22X
+Press enter to quit.[15X
+
+]0;/cygdrive/c/Users/bhall/Documents/Programming/Fortune TEller
+[32mbhall@DESKTOP-GORVVML [33m/cygdrive/c/Users/bhall/Documents/Programming/Fortune TEller[0m
+$ 230 5[K[K
+bash: 230: command not found
+]0;/cygdrive/c/Users/bhall/Documents/Programming/Fortune TEller
+[32mbhall@DESKTOP-GORVVML [33m/cygdrive/c/Users/bhall/Documents/Programming/Fortune TEller[0m
+$ 230./main.exe
+[6n[m[?25hEnter your favorite number (no decimals): 230
+Enter a number you don't like (no decimals): 60
+Enter the name of your favorite movie: Something with a space
+Is it gif or gif? gif
+I'm glad we could see eye to eye...
+Your secret, lucky number is: 0    
+Think bigger![22X
+Press enter to quit.[15X
+
+]0;/cygdrive/c/Users/bhall/Documents/Programming/Fortune TEller
+[32mbhall@DESKTOP-GORVVML [33m/cygdrive/c/Users/bhall/Documents/Programming/Fortune TEller[0m
+$ ./main.exe
+[6n[m[?25hEnter your favorite number (no decimals): 50
+Enter a number you don't like (no decimals): 7
+Enter the name of your favorite movie: prime numer  bers             something that equals a prime hopefully
+Is it gif or gif? a spoon
+You should probably see a therapist... 
+Anyway, here is your fortune for today:
+Your secret, lucky number is: 0        
+Think bigger![26X
+Press enter to quit.[19X
+]0;/cygdrive/c/Users/bhall/Documents/Programming/Fortune TEller
+[32mbhall@DESKTOP-GORVVML [33m/cygdrive/c/Users/bhall/Documents/Programming/Fortune TEller[0m
+$ ./main.exe
+[6n[m[?25hEnter your favorite number (no decimals): 7
+Enter a number you don't like (no decimals): 7
+Enter the name of your favorite movie: 7
+Is it gif or gif? 7
+You should probably see a therapist... 
+Anyway, here is your fortune for today:
+Your secret, lucky number is: 9        
+Today is your lucky day![15X
+Press enter to quit.[19X
+
+]0;/cygdrive/c/Users/bhall/Documents/Programming/Fortune TEller
+[32mbhall@DESKTOP-GORVVML [33m/cygdrive/c/Users/bhall/Documents/Programming/Fortune TEller[0m
+$ exit
+exit
+
+Script done on 2021-09-02 22:23:23-07:00 [COMMAND_EXIT_CODE="0"]
